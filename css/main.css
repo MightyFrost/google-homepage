@@ -46,7 +46,7 @@ li {
 div#search-container {
     display: block;
     text-align: -webkit-center;
-    margin: 79px auto;
+    margin: 79px auto 0px;
 }
 
 img#logo {
